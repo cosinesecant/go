@@ -4,6 +4,7 @@
 package ugorji
 
 import _ "github.com/ugorji/go/codec"
+// test
 
 // PlaceHolder file, so this can be seen as a module.
 
